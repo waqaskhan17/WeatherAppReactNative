@@ -4,7 +4,7 @@ import FontAwesome from '@expo/vector-icons/FontAwesome';
 import Fontisto from '@expo/vector-icons/Fontisto';
 import { clear_day, clear_night, cloud_day, cloud_night, haze_day, haze_night, rain_day, rain_night, snow_day, snow_night } from '../assets/backgrounds/index';
 
-const API_KEY = "0554e838b31b2b11192078551ebd86ff";
+const API_KEY = "Enter Your API Key";
 const Weather = (props) => {
     //snow <FontAwesome name="snowflake-o" size={24} color="black" />
     //rain <FontAwesome name="tint" size={24} color="black" />
